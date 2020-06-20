@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+# Welcome to JCI Brick Home Page
 
-You can use the [editor on GitHub](https://github.com/JCIBrick/TestRun/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Brick is a great way to think about representing the built-environment in the digital world.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+JCI is an active collaborator and contributor to the Brick (https://www.brickschema.org) community. 
 
-### Markdown
+If you interested in or want to contribute to the Brick effort, please go to https://www.brickschema.org for more information.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+If you are a JCI employee and want to contribute to Brick ontology work, please reach out to us via our internal sharepoint page.
 
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JCIBrick/TestRun/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(This site is currently under development. Thank you for your patience.)
