@@ -1,6 +1,6 @@
 # Welcome to JCI Brick Home Page
 
-Brick is an W3C/OWL ontolgy and is great way to think about representing the built-environment in the digital world.
+Brick is an W3C/OWL ontolgy and a great way to think about representing the built-environment in the digital world.
 
 JCI is an active collaborator and contributor to the Brick (https://www.brickschema.org) community. 
 
